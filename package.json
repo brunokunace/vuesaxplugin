@@ -1,0 +1,23 @@
+{
+  "name": "vuesaxplugin",
+  "version": "1.0.0",
+  "description": "Plugin for vue-cli-3 for Vuesax Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "vuesax",
+    "plugin"
+  ],
+  "author": "Brun00",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-ktsn": "^1.0.3",
+    "eslint-config-prettier": "^2.9.0",
+    "prettier": "1.11.1"
+  }
+}
